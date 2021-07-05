@@ -3,7 +3,7 @@ const fetch = require("node-fetch");
 const Cache = require("./cache");
 const cache = new Cache();
 
-const rootPath = 'https://knightdb.dhilip.com';
+const rootPath = 'https://amisdb.dhilip.com';
 
 class KnightClient {
     constructor() {
